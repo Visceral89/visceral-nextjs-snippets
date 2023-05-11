@@ -1,0 +1,13 @@
+{
+	"NextJs Image Component": {
+		"prefix": "nimg",
+		"body": ["<Image scr=\"$1\" alt=\"$2\" width={$3} height={$4} />"],
+		"description": "Next.Js Image Component"
+	},
+
+	"NextJs Link Component": {
+		"prefix": "nlink",
+		"body": ["<Link href=\"$1\">$2</Link>"],
+		"description": "Next.Js Link Component"
+	}
+}
