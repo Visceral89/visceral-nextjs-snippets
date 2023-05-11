@@ -2,8 +2,9 @@
 	"name": "visceral-nextjs-snippets",
 	"displayName": "Visceral NextJS Snippets",
 	"description": "Nextjs Snippets for Visceral",
+	"publisher": "Visceral3D",
 	"icon": "logo.png",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.50.0"
 	},

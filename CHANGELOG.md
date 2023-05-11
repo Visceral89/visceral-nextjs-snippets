@@ -18,3 +18,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 
     - Me beeing dumb
+
+## [0.1.1]
+
+### Added
+
+    - Publisher Name
