@@ -7,3 +7,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.1.0] - 2023-05-11
+
+### Added
+
+    - Logo
+    - Lowered required VsCode version to 1.50
+
+### Fixed
+
+    - Me beeing dumb
