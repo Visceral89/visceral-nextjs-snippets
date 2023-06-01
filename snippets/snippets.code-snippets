@@ -1,7 +1,7 @@
 {
 	"NextJs Image Component": {
 		"prefix": "nimg",
-		"body": ["<Image scr=\"$1\" alt=\"$2\" width={$3} height={$4} />"],
+		"body": ["<Image src=\"$1\" alt=\"$2\" width={$3} height={$4} />"],
 		"description": "Next.Js Image Component"
 	},
 
