@@ -4,7 +4,7 @@
 	"description": "Nextjs Snippets for Visceral",
 	"publisher": "RasmusBremholm",
 	"icon": "logo.png",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"engines": {
 		"vscode": "^1.50.0"
 	},

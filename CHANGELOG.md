@@ -8,6 +8,12 @@ This document captures all notable changes to the "visceral-nextjs-snippets" VS 
 
 ---
 
+## [0.1.3] - 2023-10-20
+
+### Added
+
+-   Added Changelog updates and fiddled around with the vsce CLI. Didnt work. Have to resort to manually uploading the file.
+
 ## [0.1.2] - 2023-10-20
 
 ### Added

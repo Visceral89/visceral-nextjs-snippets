@@ -5,5 +5,3 @@
 3 Verify: After you've published, you'll get a URL for your extension's marketplace page. You can go there to verify everything looks good. You can also search for it directly within VS Code's Extensions view.
 
 4 Updates: For future updates, you can simply update your package and run vsce publish again. You might also want to update the version number in your package.json to reflect the changes.
-
-ztbj23aqbfhxfxvs76p7csp5kqb356deme7yk2ttrix4pmu372cq
