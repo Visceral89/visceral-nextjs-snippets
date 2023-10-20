@@ -9,5 +9,16 @@
 		"prefix": "nlink",
 		"body": ["<Link href=\"$1\">$2</Link>"],
 		"description": "Next.Js Link Component"
+	},
+
+	"NextJs useState": {
+		"prefix": "nstate",
+		"body": ["const [$1, set$1] = useState($2);"],
+		"description": "Next.Js useState Hook"
+	}
+	"NextJs useState": {
+		"prefix": "nstate",
+		"body": ["const [$1, set$1] = useState($2);"],
+		"description": "Next.Js useState Hook"
 	}
 }
