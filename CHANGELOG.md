@@ -1,32 +1,37 @@
-# Change Log
+# Changelog - visceral-nextjs-snippets
 
-All notable changes to the "visceral-nextjs-snippets" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+This document captures all notable changes to the "visceral-nextjs-snippets" VS Code extension. For more structure recommendations, see [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
 - Initial release
 
+---
+
+## [0.1.2] - 2023-10-20
+
+### Added
+
+- Added `useState` snippet (Prefix: `nstate`)
+- Added `useEffect` snippet (Prefix: `nfect`)
+
+---
+
+## [0.1.1] - 2023-05-12
+
+### Added
+
+- Included Publisher Name
+
+---
+
 ## [0.1.0] - 2023-05-11
 
 ### Added
 
-    - Logo
-    - Lowered required VsCode version to 1.50
+- Introduced extension logo
+- Lowered the required VS Code version to 1.50
 
 ### Fixed
 
-    - Me beeing dumb
-
-## [0.1.1]
-
-### Added
-
-    - Publisher Name
-
-## [1.0.0]
-
-### Fixed
-
-    - Misspelled
+- Resolved an issue categorized as "Me being dumb"
