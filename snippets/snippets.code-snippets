@@ -15,10 +15,31 @@
 		"prefix": "nstate",
 		"body": ["const [$1, set$1] = useState($2);"],
 		"description": "Next.Js useState Hook"
-	}
-	"NextJs useState": {
-		"prefix": "nstate",
-		"body": ["const [$1, set$1] = useState($2);"],
-		"description": "Next.Js useState Hook"
+	},
+	"NextJs useEffect": {
+		"prefix": "nfect",
+		"body": ["useEffect(() => {", "  $1", "}, [$2]);"],
+		"description": "Next.Js useEffect Hook"
+	},
+	"NextJs Fetch": {
+		"prefix": "nfetch",
+		"body": ["async function getData() {
+			const res = await fetch('$1')
+		   
+			if (!res.ok) {
+			  throw new Error('Failed to fetch data')
+			}
+		   
+			return res.json()
+		  }
+		   
+		  export default async function Page() {
+			const data = await getData()
+		   
+			return <main>$2</main>
+		  }"],
+		"description": "Next.Js Fetch Data"
 	}
 }
+
+
