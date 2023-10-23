@@ -12,20 +12,20 @@ This document captures all notable changes to the "visceral-nextjs-snippets" VS 
 
 ### Added
 
--   Fetch Data Snippet, use nfetch to try it.
+- Fetch Data Snippet, use nfetch to try it.
+- I still probably have to try nfetch some moore to make sure it works properly.
 
 ### Fixed
 
--   Im dumb and I have to test my plugin before publishing.
--   nfect is now properly linked with correct prefix.
--   nfect now has correct body.
-
+- Im dumb and I have to test my plugin before publishing.
+- nfect is now properly linked with correct prefix.
+- nfect now has correct body.
 
 ## [0.1.3] - 2023-10-20
 
 ### Added
 
--   Added Changelog updates and fiddled around with the vsce CLI. Didnt work. Have to resort to manually uploading the file.
+- Added Changelog updates and fiddled around with the vsce CLI. Didnt work. Have to resort to manually uploading the file.
 
 ## [0.1.2] - 2023-10-20
 
