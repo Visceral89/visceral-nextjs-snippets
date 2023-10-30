@@ -20,8 +20,8 @@
 		"prefix": "nfect",
 		"body": ["useEffect(() => {", "  $1", "}, [$2]);"],
 		"description": "Next.Js useEffect Hook"
-	},
-	"NextJs Fetch": {
+	}
+	/*"NextJs Fetch": {
 		"prefix": "nfetch",
 		"body": ["async function getData() {
 			const res = await fetch('$1')
@@ -39,7 +39,5 @@
 			return <main>$2</main>
 		  }"],
 		"description": "Next.Js Fetch Data"
-	}
+	} */
 }
-
-

@@ -8,6 +8,14 @@ This document captures all notable changes to the "visceral-nextjs-snippets" VS 
 
 ---
 
+## [0.1.5] - 2023-10-27
+
+### Fixed
+
+- Removed nfetch, think it broke everything.
+
+### Fixed
+
 ## [0.1.4] - 2023-10-23
 
 ### Added
