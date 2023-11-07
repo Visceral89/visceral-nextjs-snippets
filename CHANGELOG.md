@@ -14,6 +14,10 @@ This document captures all notable changes to the "visceral-nextjs-snippets" VS 
 
 - Added Page creation. type "npage" in a newly created component or page.
 
+### Fixed
+
+- Solved my .vscodeignore so size of the snippets went from 3mb down to 41kb. <- Dumb
+
 ## [0.1.5] - 2023-10-27
 
 ### Fixed
