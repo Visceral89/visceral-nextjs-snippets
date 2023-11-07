@@ -8,6 +8,12 @@ This document captures all notable changes to the "visceral-nextjs-snippets" VS 
 
 ---
 
+## [0.1.7] - 2023-11-07
+
+### Fixed
+
+- Added support for jsx and tsx files.
+
 ## [0.1.6] - 2023-11-07
 
 ### Added

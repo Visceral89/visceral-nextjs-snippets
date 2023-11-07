@@ -28,23 +28,4 @@
 		  }"],
 		"description": "Next.Js Page Setup, replacement to rafce"
 	}
-	/*"NextJs Fetch": {
-		"prefix": "nfetch",
-		"body": ["async function getData() {
-			const res = await fetch('$1')
-		   
-			if (!res.ok) {
-			  throw new Error('Failed to fetch data')
-			}
-		   
-			return res.json()
-		  }
-		   
-		  export default async function Page() {
-			const data = await getData()
-		   
-			return <main>$2</main>
-		  }"],
-		"description": "Next.Js Fetch Data"
-	} */
 }
