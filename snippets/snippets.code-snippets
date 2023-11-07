@@ -20,6 +20,13 @@
 		"prefix": "nfect",
 		"body": ["useEffect(() => {", "  $1", "}, [$2]);"],
 		"description": "Next.Js useEffect Hook"
+	},
+	"NextJs Page": {
+		"prefix": "npage",
+		"body": ["export default function Page() {
+			return <h1>Hello, $1 Page!</h1>
+		  }"],
+		"description": "Next.Js Page Setup, replacement to rafce"
 	}
 	/*"NextJs Fetch": {
 		"prefix": "nfetch",

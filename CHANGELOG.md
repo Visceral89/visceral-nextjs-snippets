@@ -8,6 +8,12 @@ This document captures all notable changes to the "visceral-nextjs-snippets" VS 
 
 ---
 
+## [0.1.6] - 2023-11-07
+
+### Added
+
+- Added Page creation. type "npage" in a newly created component or page.
+
 ## [0.1.5] - 2023-10-27
 
 ### Fixed
