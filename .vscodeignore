@@ -1,5 +1,19 @@
+# Exclude the .vscode folder
 .vscode/**
-.vscode-test/**
+
+# Exclude git related files
+.git/**
+.gitattributes
 .gitignore
+
+# Exclude development docs
 vsc-extension-quickstart.md
 PUBLISHING.md
+
+# Exclude npm related files
+node_modules/**
+package-lock.json
+
+# Exclude image files if they're not needed in the extension package
+# If your logo.png is not used inside the extension, exclude it
+# logo.png
